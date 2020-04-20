@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClick(View v) {
 //---the "phone number" of your emulator should be 5554---
-        sendSMS("5554", "Hello my friends!");
+        sendSMS("085624986158", "Hello my friends!");
     }
     //---sends an SMS message---
     private void sendSMS(String phoneNumber, String message)
